@@ -12,7 +12,8 @@ Runs on the browser
 ![Demo](client/src/images/Demo.png)
 
 # Installation
-You can either click on the Heroku link or clone in the repository, run "npm install" and "npm run" in the terminal
+got to the deployed link or do de npm install on VS code and then an NPM start
+
 
 #  Guide
 He can use it to the check a Text Editor in the browser
